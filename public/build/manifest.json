@@ -1,0 +1,88 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-d30de700.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/font-awesome/FontAwesome.otf": {
+    "file": "assets/FontAwesome-444dd436.otf",
+    "src": "resources/fonts/font-awesome/FontAwesome.otf"
+  },
+  "resources/fonts/font-awesome/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-7bfcab6d.eot",
+    "src": "resources/fonts/font-awesome/fontawesome-webfont.eot"
+  },
+  "resources/fonts/font-awesome/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-ad615792.svg",
+    "src": "resources/fonts/font-awesome/fontawesome-webfont.svg"
+  },
+  "resources/fonts/font-awesome/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-aa58f33f.ttf",
+    "src": "resources/fonts/font-awesome/fontawesome-webfont.ttf"
+  },
+  "resources/fonts/font-awesome/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-ba0c59de.woff",
+    "src": "resources/fonts/font-awesome/fontawesome-webfont.woff"
+  },
+  "resources/fonts/font-awesome/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-2adefcbc.woff2",
+    "src": "resources/fonts/font-awesome/fontawesome-webfont.woff2"
+  },
+  "resources/fonts/ico/icofont.eot": {
+    "file": "assets/icofont-e4cbd167.eot",
+    "src": "resources/fonts/ico/icofont.eot"
+  },
+  "resources/fonts/ico/icofont.svg": {
+    "file": "assets/icofont-667f31ea.svg",
+    "src": "resources/fonts/ico/icofont.svg"
+  },
+  "resources/fonts/ico/icofont.ttf": {
+    "file": "assets/icofont-ac2e76e0.ttf",
+    "src": "resources/fonts/ico/icofont.ttf"
+  },
+  "resources/fonts/ico/icofont.woff": {
+    "file": "assets/icofont-00f9608b.woff",
+    "src": "resources/fonts/ico/icofont.woff"
+  },
+  "resources/fonts/themify/themify.eot": {
+    "file": "assets/themify-dff415da.eot",
+    "src": "resources/fonts/themify/themify.eot"
+  },
+  "resources/fonts/themify/themify.svg": {
+    "file": "assets/themify-f7af2e09.svg",
+    "src": "resources/fonts/themify/themify.svg"
+  },
+  "resources/fonts/themify/themify.ttf": {
+    "file": "assets/themify-350663a4.ttf",
+    "src": "resources/fonts/themify/themify.ttf"
+  },
+  "resources/fonts/themify/themify.woff": {
+    "file": "assets/themify-0db5c5a1.woff",
+    "src": "resources/fonts/themify/themify.woff"
+  },
+  "resources/images/dashboard/1.png": {
+    "file": "assets/1-6946d51c.png",
+    "src": "resources/images/dashboard/1.png"
+  },
+  "resources/images/logo/icon-logo.png": {
+    "file": "assets/icon-logo-a2d197ad.png",
+    "src": "resources/images/logo/icon-logo.png"
+  },
+  "resources/images/logo/logo-1.png": {
+    "file": "assets/logo-1-2423ebf0.png",
+    "src": "resources/images/logo/logo-1.png"
+  },
+  "resources/images/logo/logo.png": {
+    "file": "assets/logo-14220448.png",
+    "src": "resources/images/logo/logo.png"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/1-6946d51c.png",
+      "assets/logo-14220448.png"
+    ],
+    "file": "assets/app-a75ef2a3.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
